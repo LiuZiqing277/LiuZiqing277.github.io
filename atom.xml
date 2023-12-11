@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>li-yian</title>
   
-  
+  <subtitle>分享知识，认识世界</subtitle>
   <link href="http://li-yian.site/atom.xml" rel="self"/>
   
   <link href="http://li-yian.site/"/>
