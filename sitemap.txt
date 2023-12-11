@@ -1,3 +1,6 @@
+http://li-yian.site/movies/index.html
+http://li-yian.site/music/index.html
+http://li-yian.site/photos/index.html
 http://li-yian.site/about/index.html
 http://li-yian.site/Home/index.html
 http://li-yian.site/tags/index.html
