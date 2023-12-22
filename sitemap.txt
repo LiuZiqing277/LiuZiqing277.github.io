@@ -1,3 +1,4 @@
+http://li-yian.site/photos/%E5%B9%B3%E9%99%A2/index.html
 http://li-yian.site/photos/index.html
 http://li-yian.site/CTF/index.html
 http://li-yian.site/2023/12/14/README/
@@ -10,7 +11,6 @@ http://li-yian.site/2023/12/10/hexo%20Ubuntu%20github%20nginx%E6%90%AD%E5%BB%BA%
 http://li-yian.site/2023/12/10/kali%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 http://li-yian.site/%E5%BB%BA%E7%AB%99%E5%8F%B2/index.html
 http://li-yian.site/music/index.html
-http://li-yian.site/photos/%E5%B9%B3%E9%99%A2/index.html
 http://li-yian.site/comment/index.html
 http://li-yian.site/movies/index.html
 http://li-yian.site/about/index.html
