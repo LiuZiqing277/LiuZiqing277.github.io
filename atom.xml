@@ -6,7 +6,7 @@
   <link href="http://li-yian.site/atom.xml" rel="self"/>
   
   <link href="http://li-yian.site/"/>
-  <updated>2023-12-16T06:56:47.175Z</updated>
+  <updated>2023-12-22T16:10:40.413Z</updated>
   <id>http://li-yian.site/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>私人图床搭建</title>
+    <link href="http://li-yian.site/2023/12/23/%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/"/>
+    <id>http://li-yian.site/2023/12/23/%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/</id>
+    <published>2023-12-22T16:10:40.412Z</published>
+    <updated>2023-12-22T16:10:40.413Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Typora+PicGo+Alist 私人图床教程-CSDN</p><p><a href="https://blog.csdn.net/whale0306/article/details/128870341">教程</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Post-Abstract-AI</title>
