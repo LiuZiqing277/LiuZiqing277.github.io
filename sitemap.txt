@@ -19,5 +19,5 @@ http://li-yian.site/Home/index.html
 http://li-yian.site/tags/index.html
 http://li-yian.site/
 http://li-yian.site/tags/%E5%BB%BA%E7%AB%99/
-http://li-yian.site/tags/CTF/
 http://li-yian.site/tags/python/
+http://li-yian.site/tags/CTF/
