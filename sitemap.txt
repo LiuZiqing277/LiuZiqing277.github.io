@@ -1,3 +1,4 @@
+http://li-yian.site/2023/12/10/hexo%20Ubuntu%20github%20nginx%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB/
 http://li-yian.site/photos/%E5%B9%B3%E9%99%A2/index.html
 http://li-yian.site/photos/index.html
 http://li-yian.site/2023/12/23/%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/
@@ -8,7 +9,6 @@ http://li-yian.site/2023/12/10/%E8%A6%81%E4%BD%BF%E7%94%A8Python%E5%88%9B%E5%BB%
 http://li-yian.site/charts/index.html
 http://li-yian.site/categories/index.html
 http://li-yian.site/2023/12/13/butterfly%E6%B7%BB%E5%8A%A0%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6/
-http://li-yian.site/2023/12/10/hexo%20Ubuntu%20github%20nginx%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB/
 http://li-yian.site/2023/12/10/kali%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 http://li-yian.site/%E5%BB%BA%E7%AB%99%E5%8F%B2/index.html
 http://li-yian.site/music/index.html
@@ -19,5 +19,5 @@ http://li-yian.site/Home/index.html
 http://li-yian.site/tags/index.html
 http://li-yian.site/
 http://li-yian.site/tags/%E5%BB%BA%E7%AB%99/
-http://li-yian.site/tags/python/
 http://li-yian.site/tags/CTF/
+http://li-yian.site/tags/python/
