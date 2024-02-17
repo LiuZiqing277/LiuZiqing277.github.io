@@ -30,10 +30,9 @@ http://li-yian.site/about/index.html
 http://li-yian.site/Home/index.html
 http://li-yian.site/tags/index.html
 http://li-yian.site/
-http://li-yian.site/tags/CTF/
-http://li-yian.site/tags/%E5%B7%A5%E5%85%B7/
-http://li-yian.site/tags/Python/
-http://li-yian.site/tags/%E8%84%9A%E6%9C%AC/
-http://li-yian.site/tags/%E5%BB%BA%E7%AB%99/
-http://li-yian.site/tags/kali/
 http://li-yian.site/tags/python/
+http://li-yian.site/tags/%E8%84%9A%E6%9C%AC/
+http://li-yian.site/tags/%E5%B7%A5%E5%85%B7/
+http://li-yian.site/tags/%E5%BB%BA%E7%AB%99/
+http://li-yian.site/tags/CTF/
+http://li-yian.site/tags/kali/
